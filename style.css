@@ -89,7 +89,7 @@ h2{
 a{
   color: #CC7645;
   font-size: 1.2em;
-  transition:all .6s ease
+  transition:all .5s ease
 }
 a:hover{
   text-decoration: none;
