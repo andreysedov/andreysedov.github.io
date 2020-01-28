@@ -89,6 +89,11 @@ h2{
 a{
   color: #CC7645;
   font-size: 1.2em;
+  transition:all .6s ease
+}
+a:hover{
+  text-decoration: none;
+  color: #CCAE45;  
 }
 .links{
     height: 100vh;
