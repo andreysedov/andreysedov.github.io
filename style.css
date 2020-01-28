@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700&subset=cyrillic');
+@import url('https://fonts.googleapis.com/css?family=Bebas+Neue&display=swap');
 /* Box sizing rules */
 *,
 *::before,
@@ -78,10 +78,17 @@ select {
 /* reset css */
 
 body{
-    font-family: 'Open Sans', sans-serif;
+    background-image: url(bgpattern.gif);
+    font-family: 'Bebas Neue', cursive;
+    color: white;
+}
+
+h2{
+  font-size: 2.1em;
 }
 a{
-    text-decoration: none;
+  color: #CC7645;
+  font-size: 1.2em;
 }
 .links{
     height: 100vh;
