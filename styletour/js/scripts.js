@@ -18,3 +18,6 @@ $(window).load(function(){
 	$('#carousel-sidebar .carousel-indicators').css('max-width',  carouselCaptionWidth + 'px');
 	$('.sidebar .banner').css('max-width',  carouselCaptionWidth + 'px');
 });
+
+
+console.log("TEST";
