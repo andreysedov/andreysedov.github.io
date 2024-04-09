@@ -20,4 +20,4 @@ $(window).load(function(){
 });
 
 
-console.log("TEST";
+console.log("TEST");
